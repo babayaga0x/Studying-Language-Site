@@ -1,7 +1,7 @@
 # 🌍 Studying Language Site
 
 A clean, responsive website dedicated to online foreign language learning.  
-Built as a lightweight frontend project — pure HTML and CSS, no frameworks, no backend.
+Built as a lightweight frontend project - pure HTML and CSS, no frameworks, no backend.
 
 ---
 
